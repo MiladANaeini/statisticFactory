@@ -1,0 +1,285 @@
+
+<svg width="200" height="480" viewBox="0 0 200 480" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <!-- Outer Rack Frame (black) -->
+  <rect class="rack-frame" x="0" y="0" width="200" height="480" rx="6" ry="6" fill="#000000" stroke="#111" stroke-width="2"/>
+
+  <!-- Server Units (12U) -->
+  <g class="server-units" transform="translate(15, 15)">
+
+    <g class="server-unit" id="unit-1" transform="translate(0, 0)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-2" transform="translate(0, 38)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-3" transform="translate(0, 76)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-4" transform="translate(0, 114)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-5" transform="translate(0, 152)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-6" transform="translate(0, 190)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-7" transform="translate(0, 228)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-8" transform="translate(0, 266)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-9" transform="translate(0, 304)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-10" transform="translate(0, 342)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-11" transform="translate(0, 380)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+
+    <g class="server-unit" id="unit-12" transform="translate(0, 418)">
+      <!-- Unit Shell -->
+      <rect class="unit-front" width="170" height="35" rx="2" ry="2" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="1"/>
+      
+      <!-- Enlarged Display Panel (far left) -->
+      <rect class="display-panel" x="5" y="6" width="28" height="24" fill="#1a1a1a" stroke="#444" stroke-width="0.5"/>
+
+      <!-- DVD Drive Block -->
+      <rect class="drive-bay" x="36" y="6" width="35" height="24" fill="#888" stroke="#222" stroke-width="0.5"/>
+      <rect class="dvd-line" x="38" y="8" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="14" width="30" height="2" fill="#000"/>
+      <rect class="dvd-line" x="38" y="20" width="30" height="2" fill="#000"/>
+
+      <!-- Moved Status LEDs slightly left -->
+      <circle class="status-led led-1" cx="110" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-2" cx="125" cy="18" r="5" fill="#00ff00"/>
+      <circle class="status-led led-3" cx="140" cy="18" r="5" fill="#00ff00"/>
+
+      <!-- Square Power Button (moved left slightly) -->
+      <rect class="power-button" x="152" y="14" width="10" height="10" fill="#000" stroke="#999" stroke-width="1"/>
+    </g>
+
+  </g>
+</svg>
