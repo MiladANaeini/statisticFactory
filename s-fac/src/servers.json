@@ -1,0 +1,58 @@
+{
+    "servers": [
+        {
+            "id": "wps111",
+            "state": "running",
+            "status": "ready",
+            "islocked": false,
+            "isrunning": true,
+            "cpu": {
+                "usage": 0.21,
+                "max": 1,
+                "unit": "cores"
+            },
+            "memory": {
+                "usage": 266,
+                "max": 1024,
+                "unit": "MB"
+            },
+            "disk": {
+                "usage": 22625,
+                "max": 30720,
+                "unit": "MB"
+            },
+            "uptime": {
+                "current": 1362373,
+                "unit": "seconds"
+            },
+            "warnings": []
+        },
+        {
+            "id": "wps222",
+            "state": "running",
+            "status": "ready",
+            "islocked": false,
+            "isrunning": true,
+            "cpu": {
+                "usage": 0.45,
+                "max": 1,
+                "unit": "cores"
+            },
+            "memory": {
+                "usage": 512,
+                "max": 2048,
+                "unit": "MB"
+            },
+            "disk": {
+                "usage": 15360,
+                "max": 51200,
+                "unit": "MB"
+            },
+            "uptime": {
+                "current": 892140,
+                "unit": "seconds"
+            },
+            "warnings": []
+        }
+    ]
+}
